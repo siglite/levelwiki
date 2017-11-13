@@ -1,0 +1,11 @@
+{
+    "name": "siglite/levelwiki",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shun Ishihara",
+            "email": "sig@siglite.net"
+        }
+    ],
+    "require": {}
+}
